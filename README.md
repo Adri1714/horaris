@@ -2,7 +2,6 @@
 
 App per al mòbil per gestionar torns, hores extra i sou. Funciona sense connexió i guarda les dades només al dispositiu.
 
-És independent del projecte Unity: viu en aquesta carpeta, fora d'`Assets/`, i Unity no la llegeix.
 
 ## Què fa
 
@@ -15,7 +14,7 @@ App per al mòbil per gestionar torns, hores extra i sou. Funciona sense connexi
 ## Com provar-la
 
 ```bash
-cd HorarisApp
+cd horaris
 python3 -m http.server 8000
 ```
 
